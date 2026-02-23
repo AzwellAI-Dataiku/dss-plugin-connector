@@ -1,8 +1,17 @@
+# python
 __pycache__/
 *.pyc
 *.pyo
-build/
+
+# build outputs
 dist/
+build/
 *.egg-info/
 *.whl
 *.zip
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
